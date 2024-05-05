@@ -6,7 +6,7 @@ You're probably looking for my main Github account [liyunze-coding](https://gith
 
 ### Why don't you just rename your main Github account to liyunze-coding?
 
-My task widget got popular, and in the `!taskhelp` command, it links to the repository with `liyunze-coding` in the name. As a result, I decided not to rename my Github username and only update the display name. 
+My task widget got popular, and in the `!taskhelp` command, it links to the repository with `liyunze-coding` in the URL. As a result, I decided not to rename my Github username and only update the display name. 
 
 ---
 
@@ -29,6 +29,7 @@ No, I made them up, but I heavily anticipate these questions will come up.
 
 ---
 
-## Other links:
+### Other links:
 
+https://rython.dev/
 https://rython.dev/socials/
