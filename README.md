@@ -13,7 +13,7 @@ My task widget got popular, and in the `!taskhelp` command, it links to the repo
 ### Why don't you swap your accounts' usernames and move some projects over?
 
 1. Too much effort and risk
-2. I have Github Pro and many projects on my main account
+2. I have Github Pro on my main account 
 
 ---
 
@@ -31,5 +31,5 @@ No, I made them up, but I heavily anticipate these questions will come up.
 
 ### Other links:
 
-https://rython.dev/
-https://rython.dev/socials/
+- https://rython.dev/
+- https://rython.dev/socials/
