@@ -10,7 +10,7 @@ My task widget got popular, and in the `!taskhelp` command, it links to the repo
 
 ---
 
-### Why don't you change your alt account's username to `liyunze-coding` and change your main account's username to `RythonDev` and move some projects there?
+### Why don't you swap your accounts' usernames and move some projects over?
 
 1. Too much effort and risk
 2. I have Github Pro and many projects on my main account
